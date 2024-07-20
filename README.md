@@ -1,9 +1,9 @@
 Android Prework - Game Info Display App
-Submitted by: [Kaleab Gessese]
+Submitted by: Kaleab Gessese
 
 Game Info Display App is an Android app that displays a list of games, including an image and introductory message for each game. It also allows filtering games based on their funding status and displays summary statistics.
 
-Time spent: [8] hours spent in total
+Time spent: 8 hours spent in total
 
 Required Features
 The following required functionality is completed:
@@ -20,7 +20,9 @@ The following optional features are implemented:
  Navigation bar for improved user interface
  Responsive design for different screen sizes
 Video Walkthrough
+
 Here's a walkthrough of implemented features:
+
 ![preview](https://github.com/user-attachments/assets/61fcfeb2-f9f4-41f0-98b9-5b6e14056cd2)
 
 GIF created with: LICEcap
