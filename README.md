@@ -15,7 +15,8 @@ The following **required** functionality is completed:
 * [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
+The following **optional** features are implemented:![preview](https://github.com/user-attachments/assets/a3bd268f-9827-4dd8-9906-1c0eb3f0b816)
+
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
