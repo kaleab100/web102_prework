@@ -23,7 +23,8 @@ Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-![preview](https://github.com/user-attachments/assets/61fcfeb2-f9f4-41f0-98b9-5b6e14056cd2)
+![preview2](https://github.com/user-attachments/assets/5806ffef-04b4-40a3-a0b3-bafb6069a0f7)
+
 
 GIF created with: LICEcap
 
