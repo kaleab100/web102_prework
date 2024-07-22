@@ -115,6 +115,8 @@ function filterUnfundedOnly() {
     // use the function we previously created to add the unfunded games to the DOM
     addGamesToPage(listOfUnfundedGames)
 
+    document.getElementById('games-container').scrollIntoView({ behavior: 'smooth' });
+
 
 }
 
@@ -129,6 +131,8 @@ function filterFundedOnly() {
     // use the function we previously created to add unfunded games to the DOM
     addGamesToPage(listOfFundedGames)
 
+    document.getElementById('games-container').scrollIntoView({ behavior: 'smooth' });
+
 }
 
 // show all games
@@ -137,6 +141,8 @@ function showAllGames() {
 
     // add all games from the JSON data to the DOM
     addGamesToPage(GAMES_JSON)
+    
+    document.getElementById('games-container').scrollIntoView({ behavior: 'smooth' });
 
 }
 
@@ -150,6 +156,10 @@ const allBtn = document.getElementById("all-btn");
 unfundedBtn.addEventListener("click", filterUnfundedOnly)
 fundedBtn.addEventListener("click", filterFundedOnly)
 allBtn.addEventListener("click", showAllGames)
+
+document.addEventListener("DOMContentLoaded", () => {
+    filterFundedOnly();
+})
 
 /*************************************************************************************
  * Challenge 6: Add more information at the top of the page about the company.
